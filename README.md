@@ -6,8 +6,8 @@
 <img align="right" height="270px" alt="GIF" src="https://i.ibb.co/804t90R/anonymous.gif" /> 
 
 ### I am a Front-end Web Developer
-- 🔭 I’m currently working on my Django and basic data analysis :grin:
-- 🐍 I’m currently learning more about Python!.
+- 🔭 I’m currently working on Front-end Development :grin:
+- 🐍 I’m currently learning more about JavaScript!.
 - 💬 Ask me about anything, I am happy to help :smile:
 
 
