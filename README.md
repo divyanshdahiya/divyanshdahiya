@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on JavaScript Development
 - 🌱 I’m currently learning Front-end Web Development
-- 👯 I’m looking to collaborate on JavaScript Project
+- 👯 I’m looking to collaborate on JavaScript Project 
 - 🥅 2021 Goals: Become a Full-Stack Developer
 - 🤔 I’m looking for help with Front-end 
 - 💬 Ask me about Web-dev or any tech related stuff
