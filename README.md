@@ -26,7 +26,7 @@
 - 💬 Ask me about Web-dev or any tech related stuff
 - 📫 How to reach me: Gmail- dahiya.divyansh1@gmail.com
 - ⚡ Fun fact: I love to play games
--->
+
 
 ### Spotify Playing 🎧
 
