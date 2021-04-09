@@ -18,7 +18,7 @@
  <a href="https://www.instagram.com/divyanshdahiya/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
  <a href="https://www.facebook.com/divdahiya/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
  <a href="https://discordapp.com/users/652432172808011777"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
- <a href=""><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website" /></a>&nbsp;
+ <a href="mailto:dahiya.divyansh1@gmail.com"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website" /></a>&nbsp;
  
 - 👯 I’m looking to collaborate on JavaScript Project 
 - 🥅 2021 Goals: Become a Full-Stack Developer
