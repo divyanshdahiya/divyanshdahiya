@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on Front-end Development :grin:
 - 🐍 I’m currently learning more about JavaScript!.
-- 💬 Ask me about anything, I am happy to help :smile:
 
 
 <br>
@@ -23,7 +22,7 @@
 - 👯 I’m looking to collaborate on JavaScript Project 
 - 🥅 2021 Goals: Become a Full-Stack Developer
 - 🤔 I’m looking for help with Front-end 
-- 💬 Ask me about Web-dev or any tech related stuff
+- 💬 Ask me about Web-dev or any tech related stuff :smile:
 - 📫 How to reach me: Gmail- dahiya.divyansh1@gmail.com
 - ⚡ Fun fact: I love to play games
 
