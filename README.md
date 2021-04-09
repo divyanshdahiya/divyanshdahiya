@@ -20,10 +20,6 @@
 <a href="mailto:dahiya.divyansh1@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 
-
-
-- 🔭 I’m currently working on JavaScript Development
-- 🌱 I’m currently learning Front-end Web Development
 - 👯 I’m looking to collaborate on JavaScript Project 
 - 🥅 2021 Goals: Become a Full-Stack Developer
 - 🤔 I’m looking for help with Front-end 
