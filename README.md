@@ -22,8 +22,6 @@
 
 
 
-## Hi I'm Divyansh Dahiya
-
 - 🔭 I’m currently working on JavaScript Development
 - 🌱 I’m currently learning Front-end Web Development
 - 👯 I’m looking to collaborate on JavaScript Project 
