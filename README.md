@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on Front-end Development :grin:
 - 🐍 I’m currently learning more about JavaScript !.
 
-
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshdahiya&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshdahiya" /> </p>
 <p align="center">
