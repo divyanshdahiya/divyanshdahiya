@@ -7,7 +7,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.ibb.co/804t90R/anonymous.gif" /> 
 
 - 🔭 I’m currently working on Front-end Development :grin:
-- 🐍 I’m currently learning more about JavaScript!.
+- 🐍 I’m currently learning more about JavaScript !.
 
 
 <br>
