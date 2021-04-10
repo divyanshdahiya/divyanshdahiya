@@ -7,7 +7,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.ibb.co/804t90R/anonymous.gif" /> 
 
 - 🔭 I’m currently working on Front-end Development :grin:
-- 🐍 I’m currently learning more about JavaScript !.
+- 🐍 I’m currently learning more about JavaScript .
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshdahiya&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshdahiya" /> </p>
