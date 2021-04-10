@@ -19,7 +19,7 @@
  <a href="https://discordapp.com/users/652432172808011777"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
  <a href=""><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website" /></a>&nbsp;
  
-- 👯 I’m looking to collaborate on JavaScript Project 
+- 👯 I’m looking to collaborate on any Website Project 
 - 🥅 2021 Goals: Become a Full-Stack Developer
 - 🤔 I’m looking for help with Front-end 
 - 💬 Ask me about Web-dev or any tech related stuff :smile:
