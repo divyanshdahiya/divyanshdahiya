@@ -13,7 +13,6 @@
 - 💬 Ask me about Web-dev or any tech related stuff :smile:
 - 📫 How to reach me: Gmail- dahiya.divyansh1@gmail.com .
 - ⚡ Fun fact: I love to play video games .
-
         
  
 <h3 align="left">Languages and Tools:</h3>
