@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on any Website Project .
 - 🥅 2021 Goals: Become a Full-Stack Developer .
 - 💬 Ask me about Web-dev or any tech related stuff :smile:
-- 📫 How to reach me: Gmail- dahiya.divyansh1@gmail.com .
+- 📫 How to reach me: Gmail- dahiya.divyansh1@gmail.com . 
 - ⚡ Fun fact: I love to play video games .
         
  
