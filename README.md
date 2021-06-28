@@ -3,9 +3,6 @@
 
 <!-- ![](https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966 "Link to gif")
 -->
-
-<img align="right" height="270px" alt="GIF" src="https://i.ibb.co/804t90R/anonymous.gif" /> 
-
 - 🔭 I’m currently working on Front-end Development :grin:
 - 🐍 I’m currently learning more about JavaScript .
 - 👯 I’m looking to collaborate on any Website Project .
