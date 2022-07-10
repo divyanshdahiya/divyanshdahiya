@@ -3,8 +3,8 @@
 
 <!-- ![ ](https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966 "Link to gif")
 -->
-- 🔭 I’m currently working on Front-end Development :grin:
-- 🐍 I’m currently learning more about React.Js.
+- 🔭 I’m currently working on Web Development :grin:
+- 🐍 I’m currently learning more about Node.Js.
 - 👯 I’m looking to collaborate on any Website Project.
 - 🥅 2022 Goals: Become a Full-Stack Developer.
 - 💬 Ask me about Web-dev or any tech related stuff :smile:
